@@ -9,3 +9,6 @@ This is one of the simplest techniques for classification. They can be compared 
 Each node in the tree is either leaf node or a question node.
 
 2) Random Forest
+I will use random forest to predict a bird's species. I use the dataset of Caltech-UC San Diego.
+Random forest is a collection of decision trees. Each tree is only allowed to look at some of the attributes. 
+Normally this is a small number relative to the total number of attributes. 
