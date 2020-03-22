@@ -1,5 +1,5 @@
 # Prediction-student-performance
-In this repo I will build two prediction models. These models will predict a student's performance.
+In this repo I will build two prediction models. 
 I do this with the help of a book called 'Python Artificial Intelligence projects for beginners'.
 So in this project I will explore classification using Machine Learning algorithms.
 
